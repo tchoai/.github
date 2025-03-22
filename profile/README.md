@@ -22,3 +22,9 @@ Build by language learners for language learners, TchoAI aims to make language l
 
 The Vocabulary Grand Prix (VocGP) offers an exciting way to master your first 1,000 words through fast-paced, competitive racing.
 Race against the clock and build your vocabulary on the track to fluency!
+
+## [Resources](https://github.com/tchoai/resources)
+
+### [Vocabulary](https://github.com/tchoai/resources/tree/main/vocabulary)
+
+A collection of words categorized by topic and CEFR level.
